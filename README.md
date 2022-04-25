@@ -45,6 +45,7 @@ The p-Value is 5.35e-11 which is way smaller to assumed significance level that 
 The linear model predicts the mpg of the prototype MechaCar effectively since the R-squared value is 0.6825, which means 68% prediction. 
 
 
+
 ## Summary Statistics on Suspension Coils
 
 ### Deliverable 2: Summary Statistics on Suspension Coils
@@ -67,6 +68,7 @@ The linear model predicts the mpg of the prototype MechaCar effectively since th
 
 
 MechaCar suspension coils design specifications dictate allowable variance coils must not exceed 100 pounds PSI, as per generated total_summary_df, the variance is 62.29356 pounds PSI, which does not exceed to allowable PSI. However, if we check the lot_summary_df for each individual manufacturing lot, Lot 3 which has a variance of 170.2861224, is way above the allowable variance. Manufacturing Lot3 design needs to be reviewed to meet specification standard.
+
 
 
 ## T-Tests on Suspension Coils
@@ -99,6 +101,7 @@ Lot 1 with p-value of 1 which is greater than .05, we failed to reject the null 
 Lot 2 with p-value of 0.6072 which is greater than .05, we failed to reject the null hypothesis. Sample are the same from the population mean. 
 
 Lot 3 with p-value of 0.04168 which is less than .05, we reject the null hypothesis. Sample are different from the population mean. 
+
 
 
 ## Study Design: MechaCar vs Competition
