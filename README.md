@@ -92,11 +92,11 @@ MechaCar suspension coils design specifications dictate allowable variance coils
 
 Across all manufacturing lots the p-value is 0.06028 which is around 6% that is above the 5% significance level that we failed to reject the null hypothesis. The sample mean across all manufacturing lots is statistically the same from the population mean of 1500 pounds PSI.
 
-Lot 1 with p-value of 1, we failed to reject the null the hypothesis. Sample are the same from the population mean. 
+Lot 1 with p-value of 1 which is greater than .05, we failed to reject the null the hypothesis. Sample are the same from the population mean. 
 
-Lot 2 with p-value of 0.6072, we failed to reject the null hypothesis. Sample are the same from the population mean. 
+Lot 2 with p-value of 0.6072 which is greater than .05, we failed to reject the null hypothesis. Sample are the same from the population mean. 
 
-Lot 3 with p-value of 0.04168, we reject the reject the null hypothesis. Sample are different from the population mean. 
+Lot 3 with p-value of 0.04168 which is less than .05, we reject the null hypothesis. Sample are different from the population mean. 
 
 
 ## Study Design: MechaCar vs Competition
