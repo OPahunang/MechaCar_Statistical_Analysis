@@ -69,6 +69,8 @@ The linear model predicts the mpg of the prototype MechaCar effectively since th
 MechaCar suspension coils design specifications dictate allowable variance coils must not exceed 100 pounds PSI, as per generated total_summary_df, the variance is 62.29356 pounds PSI, which does not exceed to allowable PSI. However, if we check the lot_summary_df for each individual manufacturing lot, Lot 3 which has a variance of 170.2861224, is way above the allowable variance. Manufacturing Lot3 design needs to be reviewed to meet specification standard.
 
 
+## T-Tests on Suspension Coils
+
 ### Deliverable 3: T-Test on Suspension Coils
 
 - An RScript is written for t-test that compares all manufacturing lots against mean PSI of the population 
