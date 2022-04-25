@@ -114,6 +114,7 @@ To quantify how the MechaCar performs against the competition are the following 
 -	Resale Value
 
 Null Hypothesis: MechaCar is reliable car compare to competition
+
 Hypothesis: MechaCar is less reliable car compare to competition
 
 A multiple linear regression with data of hours of testing or data from consumer report, or data independent car reviewers
